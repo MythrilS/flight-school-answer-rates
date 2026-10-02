@@ -1,0 +1,50 @@
+state,school,city,airport,outcome
+AZ,Arizona Flight Training Center,Glendale,Glendale Municipal (GEU),answered
+AZ,FLY Goodyear,Goodyear,Goodyear (KGYR),voicemail
+AZ,Leighnor Aircraft,Prescott,Prescott Regional (PRC),auto-attendant
+AZ,Lima Aviation,Lake Havasu City,Lake Havasu Municipal (HII),voicemail
+AZ,Monsoon Aviation,Oro Valley,La Cholla Airpark (57AZ),answered
+AZ,Red Rock Flight School,Mesa,Falcon Field (KFFZ),answered
+AZ,Tucson Flight School,Tucson,Marana Regional (KAVQ),voicemail
+AZ,White Cloud Aviation,Lake Havasu City,Lake Havasu City (HII),voicemail
+CA,CFI Sacramento,Sacramento,Sacramento Executive Airport (KSAC),answered
+CA,CalAir Aviation,Hawthorne,Hawthorne Municipal Airport (KHHR),answered
+CA,California Sport Aviation,Lodi,Lodi Airport (Acampo),voicemail
+CA,Du Bois Aviation,Chino,Chino Airport (KCNO),answered
+CA,EFI Flight School,Murrieta,French Valley Airport (F70),answered
+CA,Golden State Flyers,Fresno,Fresno Yosemite International (KFAT),voicemail
+CA,LA Flight School,Van Nuys,Van Nuys Airport (KVNY),auto-attendant
+CA,North Aero,Salinas,Salinas Municipal Airport (KSNS),voicemail
+CO,Alpine Flight Training,Eagle,Eagle County Regional Airport (KEGE),voicemail
+CO,Arapahoe Flight Club,Colorado Springs,Colorado Springs Airport (KCOS),voicemail
+CO,Arise Aviation,Colorado Springs,Colorado Springs Airport (KCOS),answered
+CO,Journeys Aviation,Boulder,Boulder Municipal Airport (KBDU),answered
+CO,Springs Aviation,Peyton,Meadow Lake Airport (KFLY),disconnected
+CO,Summit Flight Training,Greeley,Greeley-Weld County Airport (KGXY),voicemail
+CO,The Flight School at Colorado Springs,Colorado Springs,Meadow Lake Airport (KFLY),voicemail
+CO,The Flying School,Loveland,Northern Colorado Regional Airport (KFNL),auto-attendant
+FL,Air America Flight Center,Daytona Beach,KDAB,answered
+FL,Atlas Aviation,Tampa,KTPF,answered
+FL,AvCerts,Ocala,OCF,answered
+FL,First Landings Aviation,Apopka,X04,voicemail
+FL,Florida Aviation Career Training (FACT),St. Augustine,KSGJ,answered
+FL,Florida Flight Training Center,Venice,VNC,auto-attendant
+FL,Fly Dynasty Training Center,Ocala,OCF,answered
+FL,Pensacola Air Flight School,Pensacola,KPNS,auto-attendant
+FL,Yoanna Flight School,Fort Myers,KFMY,disconnected
+NY,7:47 Aviation Inc.,Cortland,Cortland County Chase Field (N03),voicemail
+NY,Country Skies Aviation,Lagrangeville,Sky Acres Airport (44N),voicemail
+NY,Dunkirk Aviation Sales & Services,Dunkirk,Dunkirk Airport (KDKK),disconnected
+NY,Helicopter Flight Training Inc.,Ronkonkoma,Long Island MacArthur (KISP),voicemail
+NY,Hewison Aviation,Saratoga Springs,Saratoga County Airport (5B2),voicemail
+NY,Syracuse Flight School,Syracuse,Syracuse Hancock Intl (KSYR),voicemail
+NY,Take Angels Aviation,Watertown,Watertown Intl (KART),auto-attendant
+NY,Up and Away Aviation,Wappingers Falls,Hudson Valley Regional (KPOU),answered
+TX,Brazos Valley Flight Services,College Station,Easterwood Field (KCLL),answered
+TX,Eagle Aviation Flight School,Pleasanton,Pleasanton Municipal (KPEZ),voicemail
+TX,Flying Knuckleheads School of Flight,Hondo,South Texas Regional (KHDO),voicemail
+TX,Harbour Aviation,Cresson,Bourland Field (50F),answered
+TX,In The Pattern Flight School,Denton,Denton Enterprise (KDTO),voicemail
+TX,Splendid Aviation,Corpus Christi,Corpus Christi Intl (KCRP),answered
+TX,Texas Skies Flight School,Boerne,Boerne Stage Airfield (5C1),voicemail
+TX,The Flight School Inc,Spring,David Wayne Hooks (KDWH),answered
